@@ -1,0 +1,17 @@
+.container {
+    margin: 5%;
+    padding: 0;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+}
+
+/* project-1 image tag */
+.img1 {
+    width: 1000px;
+    height: 500px;
+    background-image: url('/assets/images/garbage.png');
+    background-size: cover;
+    border-radius: 16px;
+    box-shadow: 5px 5px 5px gray;
+}
