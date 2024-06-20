@@ -10,8 +10,8 @@
 .img1 {
     width: 1000px;
     height: 500px;
-    background-image: url('/src/assets/images/garbage.png');
-    background-size: cover;
+    /* background-image: url('/assets/images/garbage.png');
+    background-size: cover; */
     border-radius: 16px;
     box-shadow: 5px 5px 5px gray;
 }
